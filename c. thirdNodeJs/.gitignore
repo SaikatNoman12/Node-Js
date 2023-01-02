@@ -6,11 +6,6 @@
 
 # Node
 /node_modules
-/a. firstNodeJs/node_modules
-/b. secondNodeJs/node_modules
-/c. thirdNodeJs/node_modules
-# /d. thirdNodeJs/node_modules
-# /e. thirdNodeJs/node_modules
 npm-debug.log
 yarn-error.log
 
