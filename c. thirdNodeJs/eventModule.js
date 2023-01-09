@@ -8,7 +8,7 @@ emitter.on('bellRing', () => {
     console.log('Your Time Is Over!');
 });
 
-// rise an event;
+// raise an event;
 emitter.emit('bellRing');
 
 /* ------::USE SINGLE PARAMETER::------ */
